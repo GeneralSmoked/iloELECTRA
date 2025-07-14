@@ -1,0 +1,26 @@
+#CUDA 12.9 LATEST: pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+#CUDA 12.1: pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+#CUDA 11.8: pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+#CUDA 11.7: pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
+#CUDA 11.6: pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu116
+# for no CUDA: pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+        # NOTE: each CUDA installed version requires a specific dependencies version 
+
+
+#FOR CUDA 12.9
+torch>=1.9.0
+transformers==4.51.0
+datasets>=2.0.0
+tokenizers>=0.13.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+matplotlib>=3.5.0
+tqdm>=4.62.0
+accelerate>=0.20.0
+regex>=2022.1.18
+sentencepiece>=0.1.95
+pyarrow>=5.0.0
+tensorboard>=2.8.0
+wandb>=0.12.0
+
+# install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
