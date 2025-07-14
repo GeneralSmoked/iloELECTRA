@@ -46,7 +46,15 @@ This repo includes the full corpus to ensure reproducibility.
 
 Model checkpoints are excluded due to GitHub size limits.
 
-##⚙️ Requirements
+
+## 🔐 Fine-tuning Dataset Notice
+
+The fine-tuning dataset used in this project cannot be uploaded or distributed publicly due to a **Non-Disclosure Agreement (NDA)** with **National University Manila**.
+
+If you're interested in the dataset or collaboration, please contact the project maintainers for more information (subject to NDA terms).
+
+
+## ⚙️ Requirements
 Install dependencies:
 
 ```bash
