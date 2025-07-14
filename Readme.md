@@ -63,10 +63,10 @@ pip install -r requirements.txt
 
 ## 👥 Contributors
 
-[@GeneralSmoked] (https://github.com/GeneralSmoked) - Project Lead Developer
+[@GeneralSmoked](https://github.com/GeneralSmoked) - Project Lead Developer
 
-[@Kudol8] (https://github.com/Kudol8) - Web scraping, model training & evaluation
+[@Kudol8](https://github.com/Kudol8) - Web scraping, model training & evaluation
 
-[@Santi-Archive] (https://github.com/Santi-Archive) - Web scraping, data preprocessing, and research writing
+[@Santi-Archive](https://github.com/Santi-Archive) - Web scraping, data preprocessing, and research writing
 
-[@TSiez] (https://github.com/TSiez) - Data cleaning, preprocessing, and research writing
+[@TSiez](https://github.com/TSiez) - Data cleaning, preprocessing, and research writing
